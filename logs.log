@@ -13984,3 +13984,93 @@ ValueError: Solver lbfgs supports only 'l2' or None penalties, got elasticnet pe
 2024-05-12 21:41:28,838:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
 
+2024-05-12 22:14:05,450:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_c2e9d0a41cb443278c227868066fb7ad
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,450:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_528f7caea2e14da98d15bc3f69b2e57d_e3a57eaa183c4536bd4ebb8b3d279476
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,450:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_d701171e2ac84aebb3b015462ccd1364
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,450:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_c3652887141245bb92638b0e1de383d1_a1ff11878a6b486ea853d6228086ec94
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_e479358745ef47aba36a14e5e0722903
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_358656fa40464dabba8e594febff9343_ff68b38f722942ac8d1d596b54b8ef7e
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_143c8c6aeb88480d9f5173a848fb5984
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_925235e9ba2a4bc7a301146f2ec076e1_4b9b8751cc5744248a430e47166617f2
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_27d2a45447fc4935b9493f22a4063ee9
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_12f46fd51ebb4b85836c279b4e286cad_c3f9308444cc4d20b7b201e9937ad8fc
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_c04684205d574c93bec9d1b87b8effc4
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_5541b0339e6f4237a47a5a991a035708_099b09fb031c40fea11420d4586269ae
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_af0ae4c97bc64afc9f259cad553dfd78
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_976adc2ccb5b470f9669b0e00855e8b8_d1ae75847100419490797a452aa1ba66
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_406ac3131c1d40548ffff103888ba3ab
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,451:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_f7aa067da32f41f7897d446d5ebed388_2788966c49d541ee83b3c5d1eabc397e
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_febf6157b40744fcaa110a7592d2e6df
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_3944a7fb320443dabe8ac36648f2d9c2_c8f015fca2944705bb1596f1595f681e
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_c2b3d4d179dd415caf39ecc54dcec418
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_95885da8f93247cab7dbc69bf89e0196_e99bf5ad759b4c63ab0bc7be95d90200
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_372e845d62aa4eeb9cc4206a196b480f
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_5c8270a4d5fd4f758b5460573ef0f872_d93ce7844fe748c9b71ba138e20ec12f
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_66bada6ec4254ab18845a68f63f71c10
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_f9554c38aad3480c8e1feeff6cb7aea5_909ae8f29af14ccca562cc29c287bb7b
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_5c62c8a6156943d69ddc715c5e4fd048
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_50465cc95e3048e1a24124c7a426f055_f20d85ab014e41998d53b984da74147a
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_d5d9bbeba7094f07a834b549ea1c3c5e
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,452:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_6929fd4b87e9474fae0bb7e7257d1714_8ee6b9070b8b4048bf7ed73915b0da88
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,453:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_4419f55065634d9aa3eabbff9eb17d6f
+  warnings.warn("Failed to delete temporary folder: {}"
+
+2024-05-12 22:14:05,453:WARNING:C:\Users\aziz\anaconda3\envs\dojo-env\lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\aziz\AppData\Local\Temp\joblib_memmapping_folder_23364_ff353306647f447f8eab1ab6a8e2f274_86b0d6ed906846558d14edfabda575d9
+  warnings.warn("Failed to delete temporary folder: {}"
+
